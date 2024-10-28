@@ -13,10 +13,5 @@
         "id": 3,
         "name": "Charlie",
         "gender": "male"
-    },
-    {
-        "id": 4,
-        "name": "Diana",
-        "gender": "female"
     }
 ]
