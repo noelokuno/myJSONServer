@@ -18,35 +18,5 @@
         "id": 4,
         "name": "Diana",
         "gender": "female"
-    },
-    {
-        "id": 5,
-        "name": "Ethan",
-        "gender": "male"
-    },
-    {
-        "id": 6,
-        "name": "Fiona",
-        "gender": "female"
-    },
-    {
-        "id": 7,
-        "name": "George",
-        "gender": "male"
-    },
-    {
-        "id": 8,
-        "name": "Hannah",
-        "gender": "female"
-    },
-    {
-        "id": 9,
-        "name": "Ian",
-        "gender": "male"
-    },
-    {
-        "id": 10,
-        "name": "Julia",
-        "gender": "female"
     }
 ]
